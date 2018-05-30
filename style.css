@@ -1,0 +1,11 @@
+.ctr{
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.btn{
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-top: 15px;
+}
